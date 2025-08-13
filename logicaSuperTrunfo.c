@@ -150,8 +150,6 @@ int main(){
         printf("Empatou!\n");
     }
     
-    
-
     return 0;
 
 }
